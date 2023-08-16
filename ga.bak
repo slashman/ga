@@ -1,0 +1,1211 @@
+<CLASS Type="TProject">
+    <PROPERTY Name="Name">ga</PROPERTY>
+    <PROPERTY Name="FileName">D:\Slash\Proyectos Personales\Copia de Guardian Angel\ga.jde</PROPERTY>
+    <PROPERTY Name="Managed">0</PROPERTY>
+    <PROPERTY Name="Expanded">1</PROPERTY>
+    <PROPERTY Name="CompileExtensions">gif,java,properties</PROPERTY>
+    <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+    <PROPERTY Name="SmartFolder">0</PROPERTY>
+    <PROPERTY Name="OpenFiles">
+        <CLASS Type="TFiles">
+            <PROPERTY Name="CurrentIndex">2</PROPERTY>
+            <PROPERTY Name="LastFileName">D:\Slash\Proyectos Personales\Copia de Guardian Angel\src\guardian\world\TimeLine.java</PROPERTY>
+                <CLASS Type="TFile">
+                    <PROPERTY Name="ProjectID">{36995AC8-57E7-44E7-B13C-51236632F3B5}</PROPERTY>
+                    <PROPERTY Name="CaretLeft">47</PROPERTY>
+                    <PROPERTY Name="CaretTop">654</PROPERTY>
+                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen\FractalBuilder.java</PROPERTY>
+                    <PROPERTY Name="WindowLeft">1</PROPERTY>
+                    <PROPERTY Name="WindowTop">641</PROPERTY>
+                </CLASS>
+                <CLASS Type="TFile">
+                    <PROPERTY Name="ProjectID">{36995AC8-57E7-44E7-B13C-51236632F3B5}</PROPERTY>
+                    <PROPERTY Name="CaretLeft">1</PROPERTY>
+                    <PROPERTY Name="CaretTop">1</PROPERTY>
+                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\TimeLine.java</PROPERTY>
+                    <PROPERTY Name="WindowLeft">1</PROPERTY>
+                    <PROPERTY Name="WindowTop">1</PROPERTY>
+                </CLASS>
+                <CLASS Type="TFile">
+                    <PROPERTY Name="ProjectID">{36995AC8-57E7-44E7-B13C-51236632F3B5}</PROPERTY>
+                    <PROPERTY Name="CaretLeft">0</PROPERTY>
+                    <PROPERTY Name="CaretTop">0</PROPERTY>
+                    <PROPERTY Name="FileName">$(PROJECT)\src\engine\World.java</PROPERTY>
+                    <PROPERTY Name="WindowLeft">0</PROPERTY>
+                    <PROPERTY Name="WindowTop">0</PROPERTY>
+                </CLASS>
+        </CLASS>
+    </PROPERTY>
+    <PROPERTY Name="ID">{36995AC8-57E7-44E7-B13C-51236632F3B5}</PROPERTY>
+    <PROPERTY Name="HistoryPath">$(PROJECT)\history</PROPERTY>
+    <PROPERTY Name="Libraries">
+        <CLASS Type="TLibraries">
+        </CLASS>
+    </PROPERTY>
+    <PROPERTY Name="JDKID">{B99E0B68-0621-4642-9BC1-91A19033B6C3}</PROPERTY>
+    <PROPERTY Name="DocPath">$(PROJECT)\docs</PROPERTY>
+    <PROPERTY Name="OutputPath">$(PROJECT)\classes</PROPERTY>
+    <PROPERTY Name="SourcePath">$(PROJECT)\src</PROPERTY>
+    <PROPERTY Name="SourcePaths">
+        <CLASS Type="TSourcePaths">
+                <CLASS Type="TSourcePath">
+                    <PROPERTY Name="Path">$(PROJECT)\src</PROPERTY>
+                    <PROPERTY Name="Default">1</PROPERTY>
+                    <PROPERTY Name="SourcePathType">0</PROPERTY>
+                </CLASS>
+        </CLASS>
+    </PROPERTY>
+    <PROPERTY Name="RunType">0</PROPERTY>
+    <PROPERTY Name="RunApplication">
+        <CLASS Type="TRunApplication">
+            <PROPERTY Name="RunClass">guardian.game.Guardian</PROPERTY>
+        </CLASS>
+    </PROPERTY>
+    <PROPERTY Name="RunApplet">
+        <CLASS Type="TRunApplet">
+            <PROPERTY Name="AppletType">0</PROPERTY>
+            <PROPERTY Name="Parameters"></PROPERTY>
+        </CLASS>
+    </PROPERTY>
+    <PROPERTY Name="RunManual">
+        <CLASS Type="TRunManual">
+        </CLASS>
+    </PROPERTY>
+    <PROPERTY Name="URLMaps">
+        <CLASS Type="TURLMaps">
+        </CLASS>
+    </PROPERTY>
+    <PROPERTY Name="SCCLocalPath">$(PROJECT)\src</PROPERTY>
+    <PROPERTY Name="Version">0.80</PROPERTY>
+    <PROPERTY Name="SourceControlType">0</PROPERTY>
+    <PROPERTY Name="CVSServerType">0</PROPERTY>
+    <PROPERTY Name="DefaultTarget">
+        <CLASS Type="TDefaultTarget">
+        </CLASS>
+    </PROPERTY>
+        <CLASS Type="TFolder">
+            <PROPERTY Name="Name">src</PROPERTY>
+            <PROPERTY Name="FileName">$(PROJECT)\src</PROPERTY>
+            <PROPERTY Name="Managed">0</PROPERTY>
+            <PROPERTY Name="Expanded">1</PROPERTY>
+            <PROPERTY Name="CompileExtensions">gif,java,properties</PROPERTY>
+            <PROPERTY Name="Extensions">gif,java,properties</PROPERTY>
+            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                <CLASS Type="TFolder">
+                    <PROPERTY Name="Name">engine</PROPERTY>
+                    <PROPERTY Name="FileName">$(PROJECT)\src\engine</PROPERTY>
+                    <PROPERTY Name="Managed">1</PROPERTY>
+                    <PROPERTY Name="Expanded">1</PROPERTY>
+                    <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                    <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                    <PROPERTY Name="SmartFolder">1</PROPERTY>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">Action.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\engine\Action.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">ActionSelector.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\engine\ActionSelector.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">Actor.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\engine\Actor.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">ActorDefinition.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\engine\ActorDefinition.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">ActorFactory.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\engine\ActorFactory.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">VAction.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\engine\VAction.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">VActor.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\engine\VActor.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">World.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\engine\World.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                </CLASS>
+                <CLASS Type="TFolder">
+                    <PROPERTY Name="Name">guardian</PROPERTY>
+                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian</PROPERTY>
+                    <PROPERTY Name="Managed">1</PROPERTY>
+                    <PROPERTY Name="Expanded">1</PROPERTY>
+                    <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                    <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                    <PROPERTY Name="SmartFolder">1</PROPERTY>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">actions</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">0</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Advance.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\Advance.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Close.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\Close.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFolder">
+                                    <PROPERTY Name="Name">combat</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\combat</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Expanded">0</PROPERTY>
+                                    <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                                    <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                                    <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                        <CLASS Type="TFileNode">
+                                            <PROPERTY Name="Name">Bash.java</PROPERTY>
+                                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\combat\Bash.java</PROPERTY>
+                                            <PROPERTY Name="Managed">1</PROPERTY>
+                                            <PROPERTY Name="Marks">
+                                                <CLASS Type="TMarks">
+                                                </CLASS>
+                                            </PROPERTY>
+                                        </CLASS>
+                                        <CLASS Type="TFileNode">
+                                            <PROPERTY Name="Name">PoleHit.java</PROPERTY>
+                                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\combat\PoleHit.java</PROPERTY>
+                                            <PROPERTY Name="Managed">1</PROPERTY>
+                                            <PROPERTY Name="Marks">
+                                                <CLASS Type="TMarks">
+                                                </CLASS>
+                                            </PROPERTY>
+                                        </CLASS>
+                                        <CLASS Type="TFileNode">
+                                            <PROPERTY Name="Name">ShieldBash.java</PROPERTY>
+                                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\combat\ShieldBash.java</PROPERTY>
+                                            <PROPERTY Name="Managed">1</PROPERTY>
+                                            <PROPERTY Name="Marks">
+                                                <CLASS Type="TMarks">
+                                                </CLASS>
+                                            </PROPERTY>
+                                        </CLASS>
+                                        <CLASS Type="TFileNode">
+                                            <PROPERTY Name="Name">Swing.java</PROPERTY>
+                                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\combat\Swing.java</PROPERTY>
+                                            <PROPERTY Name="Managed">1</PROPERTY>
+                                            <PROPERTY Name="Marks">
+                                                <CLASS Type="TMarks">
+                                                </CLASS>
+                                            </PROPERTY>
+                                        </CLASS>
+                                </CLASS>
+                                <CLASS Type="TFolder">
+                                    <PROPERTY Name="Name">debug</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\debug</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Expanded">0</PROPERTY>
+                                    <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                                    <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                                    <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                        <CLASS Type="TFileNode">
+                                            <PROPERTY Name="Name">ExamineBeing.java</PROPERTY>
+                                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\debug\ExamineBeing.java</PROPERTY>
+                                            <PROPERTY Name="Managed">1</PROPERTY>
+                                            <PROPERTY Name="Marks">
+                                                <CLASS Type="TMarks">
+                                                </CLASS>
+                                            </PROPERTY>
+                                        </CLASS>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Drop.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\Drop.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Equip.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\Equip.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Get.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\Get.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GuardianAction.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\GuardianAction.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Open.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\Open.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">UnEquip.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actions\UnEquip.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">actor</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actor</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">0</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Perception.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actor\Perception.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">PhysicalActor.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actor\PhysicalActor.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">PhysicalActorFactory.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actor\PhysicalActorFactory.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">SensibleActor.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actor\SensibleActor.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">VPhysicalActor.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\actor\VPhysicalActor.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">ai</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\ai</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">0</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Wanderer.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\ai\Wanderer.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">being</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">0</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">BodyPart.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\BodyPart.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">CellMemory.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\CellMemory.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Cut.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\Cut.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">EquipmentSlot.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\EquipmentSlot.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">EventListener.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\EventListener.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GBeing.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\GBeing.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GBeingFactory.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\GBeingFactory.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GRace.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\GRace.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GWound.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\GWound.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">VBeing.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\VBeing.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">VBodyPart.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\VBodyPart.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">VGWound.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\being\VGWound.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">game</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\game</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">0</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">FirstLoader.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\game\FirstLoader.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Game.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\game\Game.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Guardian.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\game\Guardian.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Loader.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\game\Loader.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">MapCellLoad.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\game\MapCellLoad.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">PCBuilder.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\game\PCBuilder.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">UISelector.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\game\UISelector.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">WorldBuilder.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\game\WorldBuilder.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">item</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\item</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">0</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GItem.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\item\GItem.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GItemFactory.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\item\GItemFactory.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Material.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\item\Material.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">VItem.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\item\VItem.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">ui</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\ui</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">0</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Appearance.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\ui\Appearance.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">AppearanceFactory.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\ui\AppearanceFactory.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">CommandListener.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\ui\CommandListener.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">PlayerActionListener.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\ui\PlayerActionListener.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">UserInterface.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\ui\UserInterface.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">VAppearance.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\ui\VAppearance.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">world</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">1</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Event.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\Event.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFolder">
+                                    <PROPERTY Name="Name">feature</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\feature</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Expanded">0</PROPERTY>
+                                    <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                                    <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                                    <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                        <CLASS Type="TFileNode">
+                                            <PROPERTY Name="Name">Feature.java</PROPERTY>
+                                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\feature\Feature.java</PROPERTY>
+                                            <PROPERTY Name="Managed">1</PROPERTY>
+                                            <PROPERTY Name="Marks">
+                                                <CLASS Type="TMarks">
+                                                </CLASS>
+                                            </PROPERTY>
+                                        </CLASS>
+                                        <CLASS Type="TFileNode">
+                                            <PROPERTY Name="Name">House.java</PROPERTY>
+                                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\feature\House.java</PROPERTY>
+                                            <PROPERTY Name="Managed">1</PROPERTY>
+                                            <PROPERTY Name="Marks">
+                                                <CLASS Type="TMarks">
+                                                </CLASS>
+                                            </PROPERTY>
+                                        </CLASS>
+                                        <CLASS Type="TFileNode">
+                                            <PROPERTY Name="Name">StaticFeature.java</PROPERTY>
+                                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\feature\StaticFeature.java</PROPERTY>
+                                            <PROPERTY Name="Managed">1</PROPERTY>
+                                            <PROPERTY Name="Marks">
+                                                <CLASS Type="TMarks">
+                                                </CLASS>
+                                            </PROPERTY>
+                                        </CLASS>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">FeatureBuilder.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\FeatureBuilder.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">FirstPopultionBuilder.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\FirstPopultionBuilder.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GMapCell.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\GMapCell.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GMapCellFactory.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\GMapCellFactory.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GTime.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\GTime.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">GWorld.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\GWorld.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">TimeLine.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\TimeLine.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">VEvent.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\world\VEvent.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">worldgen</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">1</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">BeingProfile.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen\BeingProfile.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">ContentDefinition.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen\ContentDefinition.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">ContentInfo.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen\ContentInfo.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">FeatureProfile.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen\FeatureProfile.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">FirstPopulationBuilder.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen\FirstPopulationBuilder.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">FractalBuilder.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen\FractalBuilder.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">PopulationBuilder.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen\PopulationBuilder.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">PopulatorInfo.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen\PopulatorInfo.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">TownDefinition.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\guardian\worldgen\TownDefinition.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                </CLASS>
+                <CLASS Type="TFolder">
+                    <PROPERTY Name="Name">siLayers</PROPERTY>
+                    <PROPERTY Name="FileName">$(PROJECT)\src\siLayers</PROPERTY>
+                    <PROPERTY Name="Managed">1</PROPERTY>
+                    <PROPERTY Name="Expanded">1</PROPERTY>
+                    <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                    <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                    <PROPERTY Name="SmartFolder">1</PROPERTY>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">SwingConsole</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\siLayers\SwingConsole</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">0</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">StrokeInformer.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\siLayers\SwingConsole\StrokeInformer.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">SwingConsoleFrame.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\siLayers\SwingConsole\SwingConsoleFrame.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">SwingConsolePanel.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\siLayers\SwingConsole\SwingConsolePanel.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">SwingConsoleSI.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\siLayers\SwingConsole\SwingConsoleSI.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                </CLASS>
+                <CLASS Type="TFolder">
+                    <PROPERTY Name="Name">uiLayers</PROPERTY>
+                    <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers</PROPERTY>
+                    <PROPERTY Name="Managed">1</PROPERTY>
+                    <PROPERTY Name="Expanded">0</PROPERTY>
+                    <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                    <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                    <PROPERTY Name="SmartFolder">1</PROPERTY>
+                        <CLASS Type="TFolder">
+                            <PROPERTY Name="Name">consoleUI</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers\consoleUI</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Expanded">0</PROPERTY>
+                            <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                            <PROPERTY Name="SmartFolder">1</PROPERTY>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">ActionCancelException.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers\consoleUI\ActionCancelException.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">CharAppearance.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers\consoleUI\CharAppearance.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">CharAppearanceFactory.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers\consoleUI\CharAppearanceFactory.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">CharKey.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers\consoleUI\CharKey.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">Color.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers\consoleUI\Color.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">ConsoleSI.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers\consoleUI\ConsoleSI.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">ConsoleUI.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers\consoleUI\ConsoleUI.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">UserAction.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers\consoleUI\UserAction.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                                <CLASS Type="TFileNode">
+                                    <PROPERTY Name="Name">UserCommand.java</PROPERTY>
+                                    <PROPERTY Name="FileName">$(PROJECT)\src\uiLayers\consoleUI\UserCommand.java</PROPERTY>
+                                    <PROPERTY Name="Managed">1</PROPERTY>
+                                    <PROPERTY Name="Marks">
+                                        <CLASS Type="TMarks">
+                                        </CLASS>
+                                    </PROPERTY>
+                                </CLASS>
+                        </CLASS>
+                </CLASS>
+                <CLASS Type="TFolder">
+                    <PROPERTY Name="Name">util</PROPERTY>
+                    <PROPERTY Name="FileName">$(PROJECT)\src\util</PROPERTY>
+                    <PROPERTY Name="Managed">1</PROPERTY>
+                    <PROPERTY Name="Expanded">1</PROPERTY>
+                    <PROPERTY Name="CompileExtensions">java,gif,properties</PROPERTY>
+                    <PROPERTY Name="Extensions">java,gif,properties</PROPERTY>
+                    <PROPERTY Name="SmartFolder">1</PROPERTY>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">Debug.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\Debug.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">EngineException.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\EngineException.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">IntStack.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\IntStack.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">MathF.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\MathF.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">MatrixShower.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\MatrixShower.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">ObjectVector.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\ObjectVector.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">ParameterException.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\ParameterException.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">Plasma.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\Plasma.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">Plasma2.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\Plasma2.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">Point.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\Point.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">Properties.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\Properties.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">Property.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\Property.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">RandomGen.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\RandomGen.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                        <CLASS Type="TFileNode">
+                            <PROPERTY Name="Name">SQueue.java</PROPERTY>
+                            <PROPERTY Name="FileName">$(PROJECT)\src\util\SQueue.java</PROPERTY>
+                            <PROPERTY Name="Managed">1</PROPERTY>
+                            <PROPERTY Name="Marks">
+                                <CLASS Type="TMarks">
+                                </CLASS>
+                            </PROPERTY>
+                        </CLASS>
+                </CLASS>
+        </CLASS>
+</CLASS>
